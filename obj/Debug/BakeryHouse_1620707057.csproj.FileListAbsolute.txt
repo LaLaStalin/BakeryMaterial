@@ -1,0 +1,35 @@
+D:\IT317\BakeryMaterial_1620707057\BakeryHouse_1620707057\bin\Debug\BakeryMaterial_1620707057.exe.config
+D:\IT317\BakeryMaterial_1620707057\BakeryHouse_1620707057\bin\Debug\BakeryMaterial_1620707057.exe
+D:\IT317\BakeryMaterial_1620707057\BakeryHouse_1620707057\bin\Debug\BakeryMaterial_1620707057.pdb
+D:\IT317\BakeryMaterial_1620707057\BakeryHouse_1620707057\obj\Debug\BakeryHouse_1620707057.csprojAssemblyReference.cache
+D:\IT317\BakeryMaterial_1620707057\BakeryHouse_1620707057\obj\Debug\BakeryMaterial_1620707057.Form1.resources
+D:\IT317\BakeryMaterial_1620707057\BakeryHouse_1620707057\obj\Debug\BakeryMaterial_1620707057.Properties.Resources.resources
+D:\IT317\BakeryMaterial_1620707057\BakeryHouse_1620707057\obj\Debug\BakeryMaterial_1620707057.UserControl_BakingPowder.resources
+D:\IT317\BakeryMaterial_1620707057\BakeryHouse_1620707057\obj\Debug\BakeryMaterial_1620707057.UserControl_Butter.resources
+D:\IT317\BakeryMaterial_1620707057\BakeryHouse_1620707057\obj\Debug\BakeryMaterial_1620707057.UserControl_Flour.resources
+D:\IT317\BakeryMaterial_1620707057\BakeryHouse_1620707057\obj\Debug\BakeryMaterial_1620707057.UserControl_Milk.resources
+D:\IT317\BakeryMaterial_1620707057\BakeryHouse_1620707057\obj\Debug\BakeryMaterial_1620707057.UserControl_Order.resources
+D:\IT317\BakeryMaterial_1620707057\BakeryHouse_1620707057\obj\Debug\BakeryMaterial_1620707057.UserControl_Other.resources
+D:\IT317\BakeryMaterial_1620707057\BakeryHouse_1620707057\obj\Debug\BakeryMaterial_1620707057.UserControl_Sugar.resources
+D:\IT317\BakeryMaterial_1620707057\BakeryHouse_1620707057\obj\Debug\BakeryMaterial_1620707057.UserControl_Topping.resources
+D:\IT317\BakeryMaterial_1620707057\BakeryHouse_1620707057\obj\Debug\BakeryHouse_1620707057.csproj.GenerateResource.cache
+D:\IT317\BakeryMaterial_1620707057\BakeryHouse_1620707057\obj\Debug\BakeryHouse_1620707057.csproj.CoreCompileInputs.cache
+D:\IT317\BakeryMaterial_1620707057\BakeryHouse_1620707057\obj\Debug\BakeryMaterial_1620707057.exe
+D:\IT317\BakeryMaterial_1620707057\BakeryHouse_1620707057\obj\Debug\BakeryMaterial_1620707057.pdb
+D:\IT317\BakeryMaterial_1620707057\BakeryHouse_1620707057\obj\Debug\BakeryMaterial_1620707057.UserControl_Promotions.resources
+D:\IT317\BakeryMaterial_1620707057 - Copy\BakeryHouse_1620707057\obj\Debug\BakeryHouse_1620707057.csprojAssemblyReference.cache
+D:\IT317\BakeryMaterial_1620707057 - Copy\BakeryHouse_1620707057\obj\Debug\BakeryMaterial_1620707057.Form1.resources
+D:\IT317\BakeryMaterial_1620707057 - Copy\BakeryHouse_1620707057\obj\Debug\BakeryMaterial_1620707057.Properties.Resources.resources
+D:\IT317\BakeryMaterial_1620707057 - Copy\BakeryHouse_1620707057\obj\Debug\BakeryMaterial_1620707057.UserControl_BakingPowder.resources
+D:\IT317\BakeryMaterial_1620707057 - Copy\BakeryHouse_1620707057\obj\Debug\BakeryMaterial_1620707057.UserControl_Butter.resources
+D:\IT317\BakeryMaterial_1620707057 - Copy\BakeryHouse_1620707057\obj\Debug\BakeryMaterial_1620707057.UserControl_Flour.resources
+D:\IT317\BakeryMaterial_1620707057 - Copy\BakeryHouse_1620707057\obj\Debug\BakeryMaterial_1620707057.UserControl_Milk.resources
+D:\IT317\BakeryMaterial_1620707057 - Copy\BakeryHouse_1620707057\obj\Debug\BakeryMaterial_1620707057.UserControl_Order.resources
+D:\IT317\BakeryMaterial_1620707057 - Copy\BakeryHouse_1620707057\obj\Debug\BakeryMaterial_1620707057.UserControl_Other.resources
+D:\IT317\BakeryMaterial_1620707057 - Copy\BakeryHouse_1620707057\obj\Debug\BakeryMaterial_1620707057.UserControl_Promotions.resources
+D:\IT317\BakeryMaterial_1620707057 - Copy\BakeryHouse_1620707057\obj\Debug\BakeryMaterial_1620707057.UserControl_Sugar.resources
+D:\IT317\BakeryMaterial_1620707057 - Copy\BakeryHouse_1620707057\obj\Debug\BakeryMaterial_1620707057.UserControl_Topping.resources
+D:\IT317\BakeryMaterial_1620707057 - Copy\BakeryHouse_1620707057\obj\Debug\BakeryHouse_1620707057.csproj.GenerateResource.cache
+D:\IT317\BakeryMaterial_1620707057 - Copy\BakeryHouse_1620707057\obj\Debug\BakeryHouse_1620707057.csproj.CoreCompileInputs.cache
+D:\IT317\BakeryMaterial_1620707057 - Copy\BakeryHouse_1620707057\obj\Debug\BakeryMaterial_1620707057.exe
+D:\IT317\BakeryMaterial_1620707057 - Copy\BakeryHouse_1620707057\obj\Debug\BakeryMaterial_1620707057.pdb
